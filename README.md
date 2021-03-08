@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="LORD USERBOT" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5511697.png" width="498" height="114" alt="Vibes In" /></a>
 
 
 <p align="center">
@@ -11,19 +11,18 @@
   </a>
 </p>  
 
-# Lord Userbot
-![Lord Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
+# Vibes In 
+![Vibes In Logo](https://telegra.ph/file/5a41ff3bd684ecfc63f81.jpg)
 
-<h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
+<h3 align="center">Userbot untuk have fun saja thx to Lord-Userbot</h3>
 <p align="center">&nbsp;</p>
 
-### Repo Lord Userbot
-Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
+### Repo Vibes
+Clone Repo [Bryan](https://t.me/fckyouasshole) Dari Berbagai Repo Userbot Github 
 
 
 ### CARA MENDAPATKAN STRING SESSON
-
-Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/LordUserbot_Group) Untuk Masuk Ke Grup Support
+Caranya pencet link ini https://repl.it/@sandeep1709/generatestringsession
 
 ## Bagaimana Cara Deploy?
 
@@ -40,8 +39,8 @@ Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](htt
 
   > Terakhir Hidupkan Dyno Lalu Check Logs (settings -> view logs) Jika Berhasil Enjoy :)
 ```
-Atau Bisa Gabung Ke Grup Lord Userbot -> [TEKAN DISINI](https://t.me/LordUserbot_Group)
-## <p align="center">DEPLOY LORD-USERBOT</p>
+Atau Bisa Gabung Ke Grup Freak N Out -> [TEKAN DISINI](https://t.me/freaknout)
+## <p align="center">DEPLOY Vibes In</p>
 
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Zora24/Lord-Userbot/tree/Lord-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
